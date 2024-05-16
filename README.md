@@ -1,5 +1,6 @@
+TEST
+
 # COMP3310 Week 10
- fffewdvcv
 
 This workshop uses similar code to the Week8 workshop, but now you will be integrating tests into the framework.
 
