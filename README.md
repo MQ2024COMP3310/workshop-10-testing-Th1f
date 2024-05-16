@@ -1,5 +1,3 @@
-DON'T FAIL THE MERGE
-
 # COMP3310 Week 10
 
 This workshop uses similar code to the Week8 workshop, but now you will be integrating tests into the framework.
