@@ -6,7 +6,7 @@ from . import db
 from werkzeug.security import generate_password_hash, check_password_hash
 
 auth = Blueprint('auth', __name__)
-#  test
+#  test1
 @auth.route('/login')
 def login():
     return render_template('login.html')
