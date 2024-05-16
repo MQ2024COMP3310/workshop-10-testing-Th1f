@@ -1,3 +1,5 @@
+TEST
+
 # COMP3310 Week 10
 
 Farihah as here
